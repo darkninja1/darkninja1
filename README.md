@@ -25,7 +25,7 @@ Latest Projects
 
 <p  align="center">
 <r>@@  Dominik Honzak  @@</r>
-<b>+     10th grade     +</b>
+<o>+     10th grade     +</o>
 <g>!       MBHS         !</g>
 </p>
 
