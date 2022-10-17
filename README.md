@@ -24,5 +24,5 @@ Latest Projects
 ```
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=darkninja1.darkninja1" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=darkninja1.darkninja1&left_color=black&right_color=purple" alt="visitor badge"/>
 </p>
