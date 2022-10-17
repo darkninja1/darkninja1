@@ -39,10 +39,11 @@
 
 ## Extracurriculars
 
-- Silversat | building cubesat to be sent to ISS between 2024-2026
-- MBHS Sysops | managing school website assciated domains and servers
-- FRC Team 449 | Programming for robotics team MBHS
+- [Silversat](https://silversat.org) | building cubesat to be sent to ISS between 2024-2026
+- [MBHS Sysops](https://mbhs.edu) | managing school website assciated domains and servers
+- [FRC Team 449](https://robot.mbhs.edu) | Programming for robotics team MBHS
 - ITCC Club | Teaching programming to minority groups and those who want to learn
+- [MBHS Hack Club](https://blair.hackclub.com) | learning programming for fun
 
 ## Visitors
 
