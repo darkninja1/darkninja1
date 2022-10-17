@@ -14,4 +14,4 @@ Latest Projects
 +     10th grade     +
 !       MBHS         !
 ```
-![Ronzi Demo Image](https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202022-10-17%20155825.png width=500)
+<img src="[drawing.jpg](https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202022-10-17%20155825.png)" alt="Ronzi Demo Image" width="500"/>
