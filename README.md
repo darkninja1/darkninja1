@@ -20,11 +20,11 @@ Latest Projects
 ---
 
 ```diff
-<p  align="center">
+
 @@  Dominik Honzak  @@
 +     10th grade     +
 !       MBHS         !
-</p>
+
 ```
 
 ---
