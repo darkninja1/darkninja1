@@ -4,8 +4,9 @@
 > Developer/Programming Enthusiast
 
 ```diff
-Latest Projects 
+
 ```
+## Latest Projects
 
 ---
 
