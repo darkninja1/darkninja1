@@ -1,8 +1,4 @@
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
+
 
 # Hello there, I'm Dominik Honzak 
 
@@ -24,7 +20,7 @@ Latest Projects
 ---
 
 <p  align="center">
-<r>@@  Dominik Honzak  @@</r>
+<r style="color:red">@@  Dominik Honzak  @@</r>
 <o>+     10th grade     +</o>
 <g>!       MBHS         !</g>
 </p>
