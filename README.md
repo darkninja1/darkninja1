@@ -17,11 +17,13 @@ Latest Projects
 
 ---
 
-```diff
-@@  Dominik Honzak  @@
-+     10th grade     +
+
+<span style='background:purple;color:white;'>@@  Dominik Honzak  @@</span>
+<span style='color:green;'>+     10th grade     +</span>
 !       MBHS         !
-```
+
+
+---
 
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=darkninja1.darkninja1&left_color=black&right_color=purple" alt="visitor badge"/>
