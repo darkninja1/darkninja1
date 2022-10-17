@@ -45,7 +45,7 @@ Latest Projects
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-***
+---
 
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=darkninja1.darkninja1&left_color=black&right_color=purple" alt="visitor badge"/>
