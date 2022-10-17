@@ -3,8 +3,8 @@
 
 ```diff
 Latest Projects 
-- https://ronzi.repl.co 
-- https://dapchat.repl.co | currently not usable to public
+- [Ronzi (Chat)](https://ronzi.repl.co). 
+- [DapChat (Chat)](https://dapchat.repl.co). | currently in development
 ```
 ```diff
 @@  Dominik Honzak  @@
