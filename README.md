@@ -19,10 +19,13 @@ Latest Projects
 
 ---
 
-<r style="color:red">@@  Dominik Honzak  @@</r>
-<o>+     10th grade     +</o>
-<g>!       MBHS         !</g>
-
+```diff
+<p  align="center">
+@@  Dominik Honzak  @@
++     10th grade     +
+!       MBHS         !
+</p>
+```
 
 ---
 
