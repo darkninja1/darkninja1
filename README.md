@@ -1,11 +1,8 @@
 
 
 # Hello there, I'm Dominik Honzak 
-> Developer/Programming Enthusiast
+> Developer and Programming Enthusiast
 
-```diff
-
-```
 ## Latest Projects
 
 ---
