@@ -37,6 +37,13 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+## Extracurriculars
+
+- Silversat | building cubesat to be sent to ISS between 2024-2026
+- MBHS Sysops | managing school website assciated domains and servers
+- FRC Team 449 | Programming for robotics team MBHS
+- ITCC Club | Teaching programming to minority groups and those who want to learn
+
 ## Visitors
 
 <p  align="center">
