@@ -29,12 +29,6 @@ Latest Projects
 
 ---
 
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=darkninja1.darkninja1&left_color=black&right_color=purple" alt="visitor badge"/>
-</p>
-
----
-
 ## Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -50,3 +44,9 @@ Latest Projects
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
+
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=darkninja1.darkninja1&left_color=black&right_color=purple" alt="visitor badge"/>
+</p>
