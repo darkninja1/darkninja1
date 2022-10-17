@@ -1,3 +1,9 @@
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
 # Hello there, I'm Dominik Honzak 
 
 
@@ -17,11 +23,11 @@ Latest Projects
 
 ---
 
-
-<span style='background:purple;color:white;'>@@  Dominik Honzak  @@</span>
-<span style='color:green;'>+     10th grade     +</span>
-!       MBHS         !
-
+<p  align="center">
+<r>@@  Dominik Honzak  @@</r>
+<b>+     10th grade     +</b>
+<g>!       MBHS         !</g>
+</p>
 
 ---
 
