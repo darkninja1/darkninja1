@@ -42,7 +42,7 @@
 - [Silversat](https://silversat.org) | building cubesat to be sent to ISS between 2024-2026 (Avionics Software Team)
 - [MBHS Sysops](https://mbhs.edu) | managing school website assciated domains and servers
 - [FRC Team 449](https://robot.mbhs.edu) | Programming for robotics team MBHS
-- ITCC Club | Helping to teach programming to minority groups and those who want to learn
+- ITCC Club | Helping to teach programming to those who want to learn
 - [MBHS Hack Club](https://blair.hackclub.com) | learning programming for fun
 
 ## Visitors
