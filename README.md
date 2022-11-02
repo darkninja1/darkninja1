@@ -11,6 +11,9 @@
 - [DapChat (Chat)](https://blairchat.herokuapp.com) | currently in development
 <img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202022-10-17%20161327.png" alt="Ronzi Demo Image" width="150" />
 
+- Currently Learning Kotlin
+
+
 ## About Me
 
 ```diff
