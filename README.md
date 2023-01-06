@@ -52,7 +52,7 @@
 - [FRC Team 449](https://robot.mbhs.edu) | Robotics Team MBHS (Programming Team)
 - Silvergale | Building Weather Balloon (Aeronautics Team)
 - ITCC Club | Helping to teach programming to those who want to learn
-- [MBHS Hack Club](https://blair.hackclub.com) | learning programming for fun
+- [MBHS Hack Club](https://blair.hackclub.com) | hackathons and other stuff
 
 ## Visitors
 
