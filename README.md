@@ -9,7 +9,7 @@
 <img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202022-10-17%20155825.png" alt="Ronzi Demo Image" width="150" />
 
 - [DapChat Official (Chat)](https://dapchat.repl.co) | the main most updated test version | replit
-- [DapChat Backup (Chat)](https://blairchat.herokuapp.com) | currently in development | heroku
+
 <img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202022-10-17%20161327.png" alt="Ronzi Demo Image" width="150" />
 
 - Currently Learning Kotlin
