@@ -24,7 +24,7 @@
 ```diff
 
 @@  Dominik Honzak  @@
-+     10th grade     +
++     11th grade     +
 !       MBHS         !
 
 ```
