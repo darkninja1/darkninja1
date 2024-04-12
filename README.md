@@ -4,8 +4,15 @@
 > Developer and Programming Enthusiast
 
 ## Latest Projects
+- [Kosmos (World building tool)]() | Great map and story creator for games like D&D | In Development
 
-- [DapChat Official (Chat)](https://dapchat.repl.co) | the main most updated test version | replit
+- [DIRO (MMORPG FPS Game)]() | Vast 3d world with player based economy with a lot of freedom | In Development
+
+- [Eagle Project (Orienteering Website)]() | A piece of my 2024 Eagle Project | Scouts
+
+- [DCG (Card Game)]() | 2023 11th grade s1 project | 3D Card Game similar to Yugioh or Pokemon
+
+- [DapChat Official (Chat)](https://dapchat.repl.co) | 2022-23 10th grade hobby project | 500000+ lines of code (learned from this highly inefficient project)
 
 <img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202023-03-21%20193311.png" alt="DAPCHAT Demo Image" width="150" />
 
