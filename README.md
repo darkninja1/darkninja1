@@ -14,7 +14,7 @@
 
 - [DapChat Official (Chat)](https://dapchat.repl.co) | 2022-23 10th grade hobby project | 500000+ lines of code (learned from this highly inefficient project)
 
-<img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202023-03-21%20193311.png" alt="DAPCHAT Demo Image" width="150" />
+<img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202023-12-06%20200232.png" alt="DAPCHAT Demo Image" width="150" />
 
 - [Ronzi (Chat)](https://ronzi.repl.co) | 2021-22 9th grade end of year project
 <img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202022-10-17%20155825.png" alt="Ronzi Demo Image" width="150" />
