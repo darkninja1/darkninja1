@@ -12,7 +12,7 @@
 
 - [DCG (Card Game)]() | 2023 11th grade s1 project | 3D Card Game similar to Yugioh or Pokemon
 
-- [DapChat Official (Chat)](https://dapchat.repl.co) | 2022-23 10th grade hobby project | 750000+ lines of code edited (learned from this highly inefficient project)
+- [DapChat Official (Chat)](https://dapchat.repl.co) | 2022-23 10th grade hobby project | writing and changing around 500000+ lines of code (learned from this highly inefficient project)
 
 <img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202023-12-06%20200232.png" alt="DAPCHAT Demo Image" width="150" />
 
