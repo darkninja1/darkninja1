@@ -8,7 +8,7 @@
 
 - [DIRO (MMORPG FPS Game)]() | Vast 3d world with player based economy with a lot of freedom | In Development
 
-- [Eagle Project (Orienteering Website)]() | A piece of my 2024 Eagle Project | Scouts
+- [Eagle Project (Orienteering Website)](https://dahonzak.github.io/EagleProject/) | A piece of my 2024 Eagle Project | Scouts
   
   <img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202024-04-16%20213753.png" alt="Eagle Project Demo Image" width="150" />
 
