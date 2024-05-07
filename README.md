@@ -4,15 +4,15 @@
 > Developer and Programming Enthusiast
 
 ## Latest Projects
-- [Kosmos (World building tool)]() | Great map and story creator for games like D&D | In Development
+- Kosmos (World building tool) | Great map and story creator for games like D&D | In Development
 
-- [DIRO (MMORPG FPS Game)]() | Vast 3d world with player based economy with a lot of freedom | In Development
+- DIRO (MMORPG FPS Game) | Vast 3d world with player based economy with a lot of freedom | In Development
 
 - [Eagle Project (Orienteering Website)](https://dahonzak.github.io/EagleProject/) | A piece of my 2024 Eagle Project | Scouts
   
   <img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202024-04-16%20213753.png" alt="Eagle Project Demo Image" width="150" />
 
-- [DCG (Card Game)]() | 2023 11th grade s1 project | 3D Card Game similar to Yugioh or Pokemon
+- DCG (Card Game) | 2023 11th grade s1 project | 3D Card Game similar to Yugioh or Pokemon
 
 - [DapChat Official (Chat)](https://dapchat.repl.co) | 2022-23 10th grade hobby project | writing and changing around 500000+ lines of code (learned from this highly inefficient project) | includes 10 other implemented games and programs (multiplayer todolists, memory, reaction games, casino games, live radio, etc...)
   
@@ -26,7 +26,7 @@
 
 
 
-- Currently Learning Kotlin
+- Currently Learning Machine Learning and Kotlin
 
 
 ## About Me
@@ -62,7 +62,7 @@
 - [FRC Team 449](https://robot.mbhs.edu) | Robotics Team MBHS (Programming Team)
 - Silvergale | Building Weather Balloon (Aeronautics Team)
 - ITCC Club | Helping to teach programming to those who want to learn
-- [MBHS Hack Club](https://blair.hackclub.com) | hackathons and other stuff
+- [MBHS Hack Club](https://blairhacks.com/) | hackathons and other stuff
 
 ## Visitors
 
