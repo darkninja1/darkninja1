@@ -4,7 +4,7 @@
 > Developer and Programming Enthusiast
 
 ## Latest Projects
-- Alea (Radio Music Player) | A radio/music player that runs statically with the ability to add announcements and other features like automatic weather reports | In Development
+- [Alea (Radio Music Player)](https://dahonzak.github.io/Alea/) | A radio/music player that runs statically with the ability to add announcements and other features like automatic weather reports | In Development
   
 - Kosmos (World building tool) | Great map and story creator for games like D&D | In Development
 
