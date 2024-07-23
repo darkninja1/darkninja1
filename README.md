@@ -13,6 +13,8 @@
   <img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202024-04-16%20213753.png" alt="Eagle Project Demo Image" width="150" />
 
 - DCG (Card Game) | 2023 11th grade s1 project | 3D Card Game similar to Yugioh or Pokemon
+  
+  <img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202024-07-09%20023744.png" alt="DCG Demo Image" width="150" />
 
 - [DapChat Official (Chat)](https://dapchat.repl.co) | 2022-23 10th grade hobby project | writing and changing around 500000+ lines of code (learned from this highly inefficient project) | includes 10 other implemented games and programs (multiplayer todo lists, memory, reaction games, casino games, synchronized radio, etc...)
   
