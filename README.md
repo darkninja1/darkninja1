@@ -4,9 +4,9 @@
 > Developer and Programming Enthusiast
 
 ## Latest Projects
+- Alea (Radio Music Player) | A radio/music player that runs statically with the ability to add announcements and other features like automatic weather reports | In Development
+  
 - Kosmos (World building tool) | Great map and story creator for games like D&D | In Development
-
-- DIRO (MMORPG FPS Game) | Vast 3d world with player based economy with a lot of freedom | In Development
 
 - [Eagle Project (Orienteering Website)](https://dahonzak.github.io/EagleProject/) | A piece of my 2024 Eagle Project | Scouts
   
