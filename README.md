@@ -4,7 +4,7 @@
 > Developer and Programming Enthusiast
 
 ## Latest Projects
-- [Alea (Radio Music Player)](https://dahonzak.github.io/Alea/) | A radio/music player that runs statically with the ability to add announcements and other features like automatic weather reports | In Development
+- Aracari (News Site) | A news website with unique user and content verification as well as games and more. | In Development
   
 - Kosmos (World building tool) | Great map and story creator for games like D&D | In Development
 
@@ -66,8 +66,3 @@
 - ITCC Club | Helping to teach programming to those who want to learn
 - [MBHS Hack Club](https://blairhacks.com/) | hackathons and other stuff
 
-## Visitors
-
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=darkninja1.darkninja1&left_color=black&right_color=purple" alt="visitor badge"/>
-</p>
