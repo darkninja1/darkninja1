@@ -4,9 +4,9 @@
 > Developer and Programming Enthusiast
 
 ## Latest Projects
-- Aracari (News Site) | A news website with unique user and content verification as well as games and more. | In Development
+- Aracari (News Site) | A news website with unique user and content verification as well as games and more. | In Development (Currently making: fine tuning the algorithms)
   
-- Kosmos (World building tool) | Great map and story creator for games like D&D | In Development
+- Aracari (Games) | Free Multiplayer casino and puzzle style games connected to the news site kind of like the nytimes games etc. | In Development (Currently making: Hearts, and an Aracari orginial game)
 
 - [Eagle Project (Orienteering Website)](https://dahonzak.github.io/EagleProject/) | A piece of my 2024 Eagle Project | Scouts
   
@@ -16,11 +16,11 @@
   
   <img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202024-07-09%20023744.png" alt="DCG Demo Image" width="150" />
 
-- [DapChat Official (Chat)](https://dapchat.repl.co) | 2022-23 10th grade hobby project | writing and changing around 500000+ lines of code (learned from this highly inefficient project) | includes 10 other implemented games and programs (multiplayer todo lists, memory, reaction games, casino games, synchronized radio, etc...)
+- [DapChat Official (Chat)](https://dapchat.gihub.io/dapchat/) | 2022-23 10th grade hobby project | writing and changing around 500000+ lines of code (learned from this highly inefficient project) | includes 10 other implemented games and programs (multiplayer todo lists, memory, reaction games, casino games, synchronized radio, etc...)
   
   <img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202023-12-06%20200232.png" alt="DAPCHAT Demo Image" width="150" />
 
-- [Ronzi (Chat)](https://ronzi.repl.co) | 2021-22 9th grade end of year project
+- [Ronzi (Chat)](https://dahonzak.github.io/dahonzak/) | 2021-22 9th grade end of year project
   
   <img src="https://github.com/darkninja1/darkninja1/blob/main/Screenshot%202022-10-17%20155825.png" alt="Ronzi Demo Image" width="150" />
 
@@ -36,8 +36,8 @@
 ```diff
 
 @@  Dominik Honzak  @@
-+     12th grade     +
-!       MBHS         !
++     Freshman     +
+!       GW         !
 
 ```
 
@@ -49,6 +49,8 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,10 +58,14 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
++ a few more
 
 ## Extracurriculars
 
-- [Silversat](https://silversat.org) | building cubesat to be sent to ISS between 2024-2026 (Avionics Software Team)
+- [Silversat](https://silversat.org) | Built cubesat to be sent to ISS September 2025 (Avionics Software Team) | depending on when you are reading this it's either in a launch tube or in outer space
+
+## Past Extracurriculars
+
 - [MBHS Sysops](https://mbhs.edu) | managing school website assciated domains and servers
 - [FRC Team 449](https://robot.mbhs.edu) | Robotics Team MBHS (Programming Team)
 - Silvergale | Building Weather Balloon (Aeronautics Team)
