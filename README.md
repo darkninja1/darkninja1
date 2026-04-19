@@ -5,7 +5,7 @@
 
 ## Latest Projects
 
-- [Farm Disaster Hub](https://devpost.com/software/farm-alert) | 2026 George Hacks x United Nations Hackathon | Took about 20 hours to complete a decentrilized farm disaster AI ML prediction network, complete with CAD designs.
+- [Farm Disaster Hub](https://devpost.com/software/farm-alert) | 2026 George Hacks x United Nations Hackathon | Took about 20 hours to complete a decentrilized IoT farm disaster AI ML prediction network, complete with CAD designs.
 
 - Aracari (News Site) | A news website with unique user and content verification as well as games and more. | In Development (Currently making: fine tuning the algorithms)
   
