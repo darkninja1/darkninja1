@@ -4,6 +4,9 @@
 > Developer and Programming Enthusiast
 
 ## Latest Projects
+
+- [Farm Disaster Hub](https://devpost.com/software/farm-alert) | 2026 George Hacks x United Nations Hackathon | Took about 20 hours to complete a decentrilized farm disaster AI ML prediction network, complete with CAD designs.
+
 - Aracari (News Site) | A news website with unique user and content verification as well as games and more. | In Development (Currently making: fine tuning the algorithms)
   
 - Aracari (Games) | Free Multiplayer casino and puzzle style games connected to the news site kind of like the nytimes games etc. | In Development (Currently making: Hearts, and an Aracari orginial game)
@@ -62,7 +65,7 @@
 
 ## Extracurriculars
 
-- [Silversat](https://silversat.org) | Built cubesat to be sent to ISS September 2025 (Avionics Software Team) | depending on when you are reading this it's either in a launch tube or in outer space
+- [Silversat](https://silversat.org) | Built cubesat and sent to ISS September 2025 (Avionics Software & Ground Software Teams) | Currently in LEO Orbit
 
 ## Past Extracurriculars
 
